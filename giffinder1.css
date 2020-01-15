@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #FFDAB9;
+}
+
+
+.container {
+    
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 20px;
+    align-content: center;
+}
+
+img {
+    width: 220px ;
+    height:220px;
+    padding: 10px;
+}
+h1 {
+    color: maroon;
+    font-family: 'Courier New', Courier, monospace;
+}
